@@ -46,8 +46,8 @@ Ilim Gofra, 2009 -2013
 ## Interest:
  :computer: Programming
  
- 📸 foto shooting
+ 📸 Foto shooting
  
- 🪡 ✂️ sewing
+ 🪡 ✂️ Sewing
  
 ---

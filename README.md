@@ -7,7 +7,7 @@
 Location: Saint-Petersburg, Russia
 Email: <madam.larinvae@yandex.ru>
 Situation: Married 
-Driving License B
+
 ---
 ### Professional experience 
 
@@ -27,7 +27,7 @@ Ilim Gofra, 2009 -2013
 IOS development 
 Foreign Languages  
 ---
-### Languages
+### Languages:
 
 * Russian - native
 * English - advanced
@@ -39,7 +39,7 @@ Foreign Languages
 * Git/GitHub
 * Communication skills
 ---
-### Interest
+### Interest:
 
 Programming
 Pole dancing

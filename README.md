@@ -2,21 +2,23 @@
 
 ![](/img/MyFoto.jpg)
 
-### Personal details
+### Personal details:
 
 Location: Saint-Petersburg, Russia
+
 Email: <madam.larinvae@yandex.ru>
-Situation: Married 
+
+Situation: married 
 
 ---
-### Professional experience 
+### Professional experience: 
 
-IOS developer 2022 - now
+* IOS developer 2022 - now
 freelance
 
-Teacher of English and German 2013 - 2017
+* Teacher of English and German 2013 - 2017
 
-Management assistant & 
+* Management assistant  
 Ilim Gofra, 2009 -2013
 - carrying out the production process, adjusting settings, replenishing materials
 - efficient handling of complaints and returns
@@ -24,8 +26,9 @@ Ilim Gofra, 2009 -2013
 ---
 ### Education: 
 
-IOS development 
-Foreign Languages  
+* IOS development 
+* Foreign languages
+
 ---
 ### Languages:
 
@@ -41,7 +44,7 @@ Foreign Languages
 ---
 ### Interest:
 
-Programming
-Pole dancing
-English & German learning
-Sewing & knitting
+* Programming
+* Pole dancing
+* English & German learning
+* Sewing & knitting
